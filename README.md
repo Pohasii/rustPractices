@@ -1,1 +1,1 @@
-# rustPractices
+# Otus course
